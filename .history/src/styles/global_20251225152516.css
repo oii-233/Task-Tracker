@@ -25,7 +25,7 @@ header {
 }
 
 body.dark-mode header {
-  background-color: #2f57f7;
+  background-color: #1f1f1f;
 }
 
 header h1 {
@@ -34,22 +34,11 @@ header h1 {
 }
 
 header nav a {
-  margin-left: 10px;
+  margin-left: 20px;
   text-decoration: none;
   color: #ffffff;
   font-weight: 500;
   transition: color 0.3s;
-}
-
-.header-controls {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-}
-
-.brand-emoji {
-  margin-left: 8px;
-  font-size: 1.1rem;
 }
 
 header nav a:hover {
