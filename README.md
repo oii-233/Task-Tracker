@@ -2,7 +2,7 @@
 
 A simple **Task Tracker App** built with **React** and **Vite**.
 
----
+--
 
 ## Screenshots
 
