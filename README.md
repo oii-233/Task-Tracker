@@ -12,7 +12,7 @@ A simple **Task Tracker App** built with **React** and **Vite**.
 **Stats Page**  
 ![Stats](screenshots/stats.png)
 
----
+--
 
 ## Features
 
